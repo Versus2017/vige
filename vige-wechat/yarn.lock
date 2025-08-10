@@ -7496,9 +7496,9 @@ vue-template-es2015-compiler@^1.6.0:
   version "1.6.0"
   resolved "http://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.6.0.tgz#dc42697133302ce3017524356a6c61b7b69b4a18"
 
-vue-wechat-title@^2.0.4:
-  version "2.0.4"
-  resolved "http://registry.npm.taobao.org/vue-wechat-title/download/vue-wechat-title-2.0.4.tgz#d0d59bd5a55cbb6623eee0606fd51d39e2799631"
+vue-wechat-title@^2.0.7:
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/vue-wechat-title/-/vue-wechat-title-2.0.7.tgz#6ad4ca49fb2e7bcd0f1eed0a5fdcbe9461b2946b"
 
 vue@^2.5.17:
   version "2.5.17"
