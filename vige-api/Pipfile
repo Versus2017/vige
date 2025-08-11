@@ -25,7 +25,7 @@ tiktoken = "==0.5.1"
 pillow = "==10.3.0"
 pydantic-settings = "==2.7.0"
 fastapi-babel = "==1.0.0"
-factory-boy = "==2.10.0"
+factory-boy = "==3.3.3"
 fastapi-cache = "==0.1.0"
 pytz = "==2024.2"
 fastapi = {extras = ["all"], version = "==0.115.6"}
