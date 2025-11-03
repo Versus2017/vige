@@ -16,7 +16,7 @@
     "axios": "^0.18.0",
     "babel-preset-es2015": "^6.24.1",
     "clipboard": "^2.0.0",
-    "codemirror": "^5.38.0",
+    "codemirror": "^6.0.2",
     "countup": "^1.8.2",
     "cropperjs": "^1.2.2",
     "echarts": "^4.0.4",
